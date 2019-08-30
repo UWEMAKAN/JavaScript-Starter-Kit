@@ -21,7 +21,7 @@
     "postbuild": "babel-node buildScripts/distServer.js",
     "deploy": "surge ./dist"
   },
-  "author": "Cory House",
+  "author": "Uwem Akan",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "3.0.0"
