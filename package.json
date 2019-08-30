@@ -1,5 +1,5 @@
 {
-  "name": "javascript-development-environment",
+  "name": "javascript-boilerplate",
   "version": "1.0.0",
   "description": "JavaScript development environment Pluralsight course by Cory House",
   "scripts": {
@@ -61,5 +61,19 @@
     "webpack-dev-middleware": "3.7.0",
     "webpack-hot-middleware": "2.25.0",
     "webpack-md5-hash": "0.0.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UWEMAKAN/JavaScript-Starter-Kit.git"
+  },
+  "keywords": [
+    "StarterKit",
+    "Boilerplate",
+    "Development",
+    "Environment"
+  ],
+  "bugs": {
+    "url": "https://github.com/UWEMAKAN/JavaScript-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/UWEMAKAN/JavaScript-Starter-Kit#readme"
 }
